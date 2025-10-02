@@ -11,3 +11,13 @@ The main goal is to **learn, practice, and create**.
     - Responsed to user input
     - Save conversation logs
     - Improve day by day with new features
+
+---
+
+## Tech Stack
+- **Language**: Python, HTML, CSS, JS
+- **Version Control**: Git + GitHub
+- **Future Plans**:
+    - Add NLP (*Natural Language Processing*)
+    - Create a basic website and connect with it
+    - Deploy online 
