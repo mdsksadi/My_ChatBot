@@ -21,3 +21,13 @@ The main goal is to **learn, practice, and create**.
     - Add NLP (*Natural Language Processing*)
     - Create a basic website and connect with it
     - Deploy online 
+
+---
+
+## Folder Structure
+My_ChatBot/     
+│       
+├── frontend/               
+│   ├── index.html      
+│   ├── style.css    
+│   └── script.js       
