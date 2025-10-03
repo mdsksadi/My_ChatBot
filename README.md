@@ -27,7 +27,7 @@ The main goal is to **learn, practice, and create**.
 ## Folder Structure
 My_ChatBot/     
 │       
-├── frontend/               
-│   ├── index.html      
-│   ├── style.css    
-│   └── script.js       
+├── frontend/           # All frontend files (UI part)               
+│   ├── index.html      # Main entry point (chat UI)      
+│   ├── style.css       # Styling    
+│   └── script.js       # Client-side logic       
